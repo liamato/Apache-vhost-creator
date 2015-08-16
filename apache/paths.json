@@ -1,0 +1,11 @@
+{
+"config": "{base}config/",
+"db": "{config}db/",
+"error": "{base}error/",
+"log": "{base}log/",
+"esites": "{base}sites_enabled/",
+"asites": "{base}sites_available/",
+"htdocs": "{base}**htdocs/",
+"sites": "{htdocs}sites/",
+"hosts": "/etc/"
+}

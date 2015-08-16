@@ -1,0 +1,6 @@
+*.pyc
+*/__pycache__/
+.error
+.log
+.load
+apache/sites_available/*.conf
